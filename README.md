@@ -10,4 +10,7 @@ Rtweet  um clone bem simples do Tweet desenvolvido com React Native pussuindo um
 ![1](https://user-images.githubusercontent.com/40068058/60763805-2e88f200-a052-11e9-9db8-dc0dc689eeef.png)
 
 # Rtweet back-end 
-https://github.com/correiarangel/Rtweet-back-end/tree/master
+https://github.com/correiarangel/Rtweet-back-end
+
+# Rtweet ReactJS front-end 
+https://github.com/correiarangel/Rtweet-front-end
