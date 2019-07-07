@@ -1,8 +1,8 @@
 # Rtweet
 
-Rtwwet a pretty simple clone of Tweet developed with React Native pussuindo a Web interface in ReaacJs with back end built with NodeJs and database mongoDB
+Rtweet a pretty simple clone of Tweet developed with React Native pussuindo a Web interface in ReaacJs with back end built with NodeJs and database mongoDB
 
-Rtwwet  um clone bem simples do Tweet desenvolvido com React Native pussuindo uma inteface Web em ReaacJs com back-end construido com NodeJs e base de dados mongoDB
+Rtweet  um clone bem simples do Tweet desenvolvido com React Native pussuindo uma inteface Web em ReaacJs com back-end construido com NodeJs e base de dados mongoDB
 
 ![5](https://user-images.githubusercontent.com/40068058/60763802-2df05b80-a052-11e9-9a09-cf40d469b508.png)
 ![4](https://user-images.githubusercontent.com/40068058/60763803-2e88f200-a052-11e9-987f-831c7542daf2.png)
